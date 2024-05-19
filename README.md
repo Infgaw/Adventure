@@ -1,0 +1,3 @@
+This is a simple Adventure website using only HTML5 and CSS3...
+
+Follow for more and support me guys <3 <3 <3
